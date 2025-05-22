@@ -17,7 +17,7 @@ Proyek ini adalah contoh implementasi dasar ORM menggunakan **Prisma** dengan da
 ## Instalasi
 
 1. Clone repositori ini:
-git clone https://github.com/username/prisma-demo.git
+git clone https://github.com/IKadekVirgio/tugas_bdl.git
 cd prisma-demo
 
 2. Install dependencies:
